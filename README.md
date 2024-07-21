@@ -10,7 +10,7 @@ const int ledPins[] = {0, 1, 2, 3, 4, 5, 6, 7, 8};
 const int numLeds = 8;
 
 void setup() {
-  // Initialize all LED pins as OUTPUT
+  
   for (int i = 0; i < numLeds; i++) {
     pinMode(ledPins[i], OUTPUT);
   }
