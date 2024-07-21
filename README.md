@@ -1,6 +1,6 @@
 # Tinkercad LED Project
 
-This project demonstrates interfacing 8 LEDs with an Arduino Uno and creating different blinking patterns.
+This project demonstrates interfacing 8 LEDs with an Arduino Uno and  blinking patterns.
 
 [View the Tinkercad project here](https://www.tinkercad.com/things/0uYO7zBcxar-swanky-wluff?sharecode=VaZuU8D2fnIN7Nqrhd0VDaNrPKE6A-t9SC-elnHJY2I)
 
